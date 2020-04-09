@@ -1,0 +1,30 @@
+#image
+{
+	text-align:center;
+	padding:10%;
+}
+.row
+{
+	padding: 5%;
+}
+#dob
+{
+	padding: 4%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-image: linear-gradient(#05e4fc,#b9eaf0);
+}
+#year
+{
+	height:50px; 
+	width:30%; 
+	border-radius: 20px; 
+	background-color: #b9f0b9; 
+}
+#rc
+{
+	padding: 4%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-image: linear-gradient(#74e026,#a0de73);
+}
